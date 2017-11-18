@@ -1,0 +1,13 @@
+/media/frank/data_magatzem/git-repos/netflix/spring-security-rest-jpa-hiber-mysql-crud/src/main/java/com/concretepage/MyApplication.java
+/media/frank/data_magatzem/git-repos/netflix/spring-security-rest-jpa-hiber-mysql-crud/src/main/java/com/concretepage/entity/Article.java
+/media/frank/data_magatzem/git-repos/netflix/spring-security-rest-jpa-hiber-mysql-crud/src/main/java/com/concretepage/service/ArticleService.java
+/media/frank/data_magatzem/git-repos/netflix/spring-security-rest-jpa-hiber-mysql-crud/src/main/java/com/concretepage/dao/UserInfoDAO.java
+/media/frank/data_magatzem/git-repos/netflix/spring-security-rest-jpa-hiber-mysql-crud/src/main/java/com/concretepage/config/MyAppUserDetailsService.java
+/media/frank/data_magatzem/git-repos/netflix/spring-security-rest-jpa-hiber-mysql-crud/src/main/java/com/concretepage/dao/IUserInfoDAO.java
+/media/frank/data_magatzem/git-repos/netflix/spring-security-rest-jpa-hiber-mysql-crud/src/main/java/com/concretepage/controller/ArticleController.java
+/media/frank/data_magatzem/git-repos/netflix/spring-security-rest-jpa-hiber-mysql-crud/src/main/java/com/concretepage/dao/ArticleDAO.java
+/media/frank/data_magatzem/git-repos/netflix/spring-security-rest-jpa-hiber-mysql-crud/src/main/java/com/concretepage/service/IArticleService.java
+/media/frank/data_magatzem/git-repos/netflix/spring-security-rest-jpa-hiber-mysql-crud/src/main/java/com/concretepage/config/SecurityConfig.java
+/media/frank/data_magatzem/git-repos/netflix/spring-security-rest-jpa-hiber-mysql-crud/src/main/java/com/concretepage/dao/IArticleDAO.java
+/media/frank/data_magatzem/git-repos/netflix/spring-security-rest-jpa-hiber-mysql-crud/src/main/java/com/concretepage/config/AppAuthenticationEntryPoint.java
+/media/frank/data_magatzem/git-repos/netflix/spring-security-rest-jpa-hiber-mysql-crud/src/main/java/com/concretepage/entity/UserInfo.java
